@@ -1,0 +1,5 @@
+start:
+        add %r1, %r0, $10
+start1:
+        add %r1, %r1, $-1
+        add %r2, %r2, $-2
